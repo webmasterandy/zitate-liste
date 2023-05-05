@@ -1,7 +1,8 @@
 # Zitate Liste
 Zitate in deutscher Sprache im JSON Format. Ich möchte die größte Datenbank an deutschen Zitaten mit einer großen vielfalt von Autoren aufbauen.<br>
-Wenn du helfen möchtest kannst du dies unter <a href="https://andyproject.de/add-quote/">hier</a> tun. <br>
-Die Zugangsdaten kannst du unter mailto:info@andyproject.de anfragen. <br>
+# Helfen?
+Wenn du helfen möchtest kannst du dies unter <a href="https://andyproject.de/add-quote/">hier</a> tun. <br><br>
+Die Zugangsdaten kannst du unter mailto:info@andyproject.de anfragen. <br><br>
 Andernfalls kannst du auch eine json datei im format:<br>
 <i> {"quotes": [<br>
     {"quote": "Die Zehn Gebote Gottes sind deshalb so eindeutig weil sie nicht erst auf einer Konferenz beschlossen wurden.", "author": "Konrad Adenauer"},<br>
